@@ -8,5 +8,6 @@ ng new プロジェクト名
 ここでは、プロジェクト名をfirstにします。
 
 ```
-ng new first
+ng new first --ng4
 ```
+
